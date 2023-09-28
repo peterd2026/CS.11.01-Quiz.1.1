@@ -1,9 +1,10 @@
 import java.util.Scanner;
 /*I have neither given nor received unauthorized aid on these pieces of work*/
-public class Main {
 
+public class Main {
+import java.util.Scanner;
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(system.in)
+        Scanner scanner = new Scanner(System.in);
 
         int age;
 
